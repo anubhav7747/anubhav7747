@@ -6,10 +6,12 @@
 
 <!--About Me -->
 <h1>About me</h1>
-- I am interested in web-development.
-- I also do competitive programming.
-- I'm currently learning backend-development and spanish.
-- Love reading books and listening to music and podcasts.
+<ul>
+  <li>I am interested in web-development.</li>
+  <li>I also do competitive programming.</li>
+  <li>I'm currently learning backend-development and spanish.</li>
+  <li>Love reading books and listening to music and podcasts.</li>
+</ul>
 
 You can find me here:
 <p align="center">
