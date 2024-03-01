@@ -1,4 +1,14 @@
-### Hi there 👋
+# <p align="center">Hi there 👋</p>
+I am **Anubhav Tiwari**, currently in the final year of Master's degree in Computer Application from _MMMUT, Gorakhpur_.
+
+## About me
+- I am interested in web-development.
+- I also do competitive programming.
+- I'm currently learning backend-development and spanish.
+- Love reading books and listening to music and podcasts.
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) AnubhavTiwari](https://www.linkedin.com/in/anubhavtiwari4647/)
+&nbsp;
+
 
 <!--
 **anubhav7747/anubhav7747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
