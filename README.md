@@ -20,12 +20,12 @@ You can find me here:
   <a href="https://www.hackerrank.com/anubhavtiwari47"> <img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/anubhavtiwari7"> <img title="Codechef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
   <a href="https://www.goodreads.com/user/show/172762316-anubhav-tiwari"><img title="goodreads" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"></a>
-  <a href="https://open.spotify.com/user/nlgtkak58cu84o531m5vcmx4h"><img title="spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+<!--   <a href="https://open.spotify.com/user/nlgtkak58cu84o531m5vcmx4h"><img title="spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a> -->
   <a href="https://www.instagram.com/anubhavtiwari_47/"> <img title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/anubhavtiwari47"> <img title="TwitterX" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="https://www.freecodecamp.org/anubhavtiwari47"> <img title="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/></a>
-  <a href="https://www.linktr.ee/anubhavtiwari_47"><img title="linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
-  <a href="https://www.threads.net/@anubhavtiwari_47"><img title="threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"></a>
+<!--   <a href="https://twitter.com/anubhavtiwari47"> <img title="TwitterX" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a> -->
+<!--   <a href="https://www.freecodecamp.org/anubhavtiwari47"> <img title="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/></a> -->
+<!--   <a href="https://www.linktr.ee/anubhavtiwari_47"><img title="linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a> -->
+<!--   <a href="https://www.threads.net/@anubhavtiwari_47"><img title="threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"></a> -->
 </p>
 
 <!-- <br> -->
@@ -41,11 +41,12 @@ You can find me here:
   [![Javascript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#) 
   [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#) 
   [![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
-  [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
+<!--  [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#) -->
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
   [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](#)
-  [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](#)
+<!--  [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](#) -->
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
 <h3>Have used:</h3>
@@ -53,29 +54,29 @@ You can find me here:
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
   <img src="https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
+<!--   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"> -->
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="microsoft powerpoint">
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="microsoft word">
 <!--   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"> -->
   <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="replit">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"> -->
 </div>
 
 <h3>Currently exploring and learning:</h3>
 <div>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
+<!--   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"> -->
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+<!--   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"> -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+<!--   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> -->
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
 </div>
